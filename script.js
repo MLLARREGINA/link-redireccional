@@ -1,2 +1,2 @@
 setTimeout(function() {
-    window.location.href = "https://wa.me/2236894238";}, 1000);
+    window.location.href = "https://wa.link/29nmru";}, 500);
