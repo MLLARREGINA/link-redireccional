@@ -1,2 +1,2 @@
 setTimeout(function() {
-    window.location.href = "https://wa.link/29nmru";}, 500);
+    window.location.href = "https://wa.link/tulugarpremuim";}, 500);
